@@ -1,4 +1,4 @@
-#  Kishomitha
+#  PREETHI KN
 
  ECE Student |  IoT & Embedded Systems |  Full Stack Enthusiast  
 
@@ -21,22 +21,24 @@ Passionate Electronics and Communication Engineering student focused on building
 
 ##  Projects  
 
-* **Smart Classroom System** – Attendance, role-based login, MongoDB integration  
-* **Auto Sorting Coin Bank** – Arduino-based coin detection system  
-* **Fitness Tracker Web App** – Real-time activity tracking  
+* **Smart Energy anagement System** – IoT-based smart energy monitoring system that tracks power usage in real time.
+Helps reduce electricity consumption through automation, analytics, and smart control. 
+* **Student Learning Management System** – A web-based platform for managing student courses, assignments, and progress.
+Provides an easy and efficient way for learning, tracking, and communication. 
+* **Portfolio Website** – A modern responsive personal portfolio website showcasing my skills and projects.
+Built with clean UI design to provide a smooth and professional user experience.
 
 ---
 
 ##  Certifications  
 
-AI, Cloud & Cyber Security courses from HP LIFE, Google Cloud & ISRO  
-
+Embedded Systems & IoT, NPTEL Certification – Internet of Things, NPTEL Certification – Fuzzy Sets, Logic and Systems & Application
 ---
 
 ##  Contact  
 
- kishomithakisho@gmail.com  
- https://kishomitha.github.io  
+ preethinatarajan6@gmail.com  
+ https:https://github.com/preethinatarajan  
 
 ---
 
